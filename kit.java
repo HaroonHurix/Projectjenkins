@@ -4,7 +4,7 @@ package jenkisdemo.jenkisdemo;
  * Hello world!
  *
  */
-public class App 
+public class kit
 {
     public static void main( String[] args )
     {
